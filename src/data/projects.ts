@@ -42,12 +42,12 @@ import matchy8 from "@/assets/projects/matchy-8.jpg";
 import matchy9 from "@/assets/projects/matchy-9.jpg";
 
 import sensedCover from "@/assets/projects/sensed-cover.jpg";
-import sensed1 from "@/assets/projects/Sensed-1.jpg";
-import sensed2 from "@/assets/projects/Sensed-2.jpg";
-import sensed3 from "@/assets/projects/Sensed-3.jpg";
-import sensed4 from "@/assets/projects/Sensed-4.jpg";
-import sensed5 from "@/assets/projects/Sensed-5.jpg";
-import sensed6 from "@/assets/projects/Sensed-6.jpg";
+import sensed1 from "@/assets/projects/sensed-1.jpg";
+import sensed2 from "@/assets/projects/sensed-1.jpg";
+import sensed3 from "@/assets/projects/sensed-3.jpg";
+import sensed4 from "@/assets/projects/sensed-4.jpg";
+import sensed5 from "@/assets/projects/sensed-5.jpg";
+import sensed6 from "@/assets/projects/sensed-6.jpg";
 
 import muqarnasCover from "@/assets/projects/muqarnas-cover.jpg";
 import muqarnas1 from "@/assets/projects/muqarnas-1.jpg";
