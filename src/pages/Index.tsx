@@ -17,7 +17,7 @@ const Index = () => {
           muted
           loop
           playsInline
-          className="block w-full h-full object-cover"
+          className="block w-full h-full object-cover scale-[1.002]"
         >
           Your browser does not support the video tag.
         </video>
