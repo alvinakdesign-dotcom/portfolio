@@ -9,21 +9,22 @@ const Index = () => {
 
   return (
     <Layout>
-      {/* Hero Section */}
-      <section className="relative h-[70vh] md:h-[85vh] overflow-hidden">
-        <video
-          src="/hero-video.mp4"
-          autoPlay
-          muted
-          loop
-          playsInline
-          className="block w-full h-full object-cover scale-[1.002]"
-        >
-          Your browser does not support the video tag.
-        </video>
+     {/* Hero Section */}
+<section className="relative w-full overflow-hidden bg-white leading-none">
+  <video
+    src="/hero-video.mp4"
+    autoPlay
+    muted
+    loop
+    playsInline
+    className="block w-full h-auto"
+  >
+    Your browser does not support the video tag.
+  </video>
 
-      
-      </section>
+  {/* Covers the thin video rendering line */}
+  <div className="absolute bottom-0 left-0 w-full h-[2px] bg-white pointer-events-none" />
+</section>
 
       {/* Introduction with Scroll Reveal */}
       <section className="container-editorial py-24 md:py-32">
