@@ -43,7 +43,7 @@ import matchy9 from "@/assets/projects/matchy-9.jpg";
 
 import sensedCover from "@/assets/projects/sensed-cover.jpg";
 import sensed1 from "@/assets/projects/sensed-1.jpg";
-import sensed2 from "@/assets/projects/sensed-1.jpg";
+import sensed2 from "@/assets/projects/sensed-2.jpg";
 import sensed3 from "@/assets/projects/sensed-3.jpg";
 import sensed4 from "@/assets/projects/sensed-4.jpg";
 import sensed5 from "@/assets/projects/sensed-5.jpg";
