@@ -184,7 +184,7 @@ export const projects: Project[] = [
     title: "Sensed Magazine",
     client: "",
     category: "Editorial Design",
-    year: "2026",
+    year: "2024",
     description:
       "Sensed is a conceptual editorial magazine exploring themes of stalking, unwanted attention, and the psychological impact of being watched. Through carefully composed imagery, typography, and visual storytelling, the publication examines the discomfort and emotional weight of the gaze. All photographic imagery is sourced from non-owned stock photography and has been digitally manipulated and art-directed for this project.",
     challenge: "",
@@ -204,7 +204,7 @@ export const projects: Project[] = [
     title: "Muqarnas",
     client: "",
     category: "Catalog Design",
-    year: "2026",
+    year: "2025",
     description:
       "This project explores the intricate Muqarnas of Wazir Khan Masjid through editorial design. The catalog highlights its architectural craftsmanship, historical significance, and ornamental beauty using photography, typography, and a structured layout.",
     challenge: "",
@@ -226,7 +226,7 @@ export const projects: Project[] = [
     title: "Thandai",
     client: "",
     category: "Packaging Design",
-    year: "2026",
+    year: "2025",
     description:
       "A 3D packaging design that reimagines traditional Thandai through contemporary form, materials, and visual storytelling.",
     challenge: "",
